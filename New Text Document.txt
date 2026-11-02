@@ -1,0 +1,8 @@
+    ''' elif "engine" in query or "search engine" in query:
+             print("Opening An Virtuosa- AI Powered Virtual Assistant ")
+             speak("Opening An Virtuosa- AI Powered Virtual Assistant ")
+             app.run()'''
+
+ '''elif "news" in query:
+            from NewsRead import latestnews
+            latestnews()'''
